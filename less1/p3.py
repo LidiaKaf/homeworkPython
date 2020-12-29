@@ -1,0 +1,9 @@
+n = input('Веедите число n - ')
+nnn = n + n + n
+nn = n + n
+n = int(n)
+nn = int(nn)
+nnn = int(nnn)
+n = n + nn + nnn
+n = str(n)
+print(f'n+nn+nnn={n}')
