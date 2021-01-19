@@ -1,0 +1,5 @@
+informatics: 100(l) 50(pr) 20(lab)
+english: 90(l) - -
+mathematics: 150(l) 60(pr) -
+physics: 30(l) - 10(lab)
+physical_education: - 30(pr) -

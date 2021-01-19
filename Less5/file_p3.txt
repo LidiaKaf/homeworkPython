@@ -1,0 +1,8 @@
+Ivanov 150000
+Petrov 90000
+Sidorov 50000
+Kozlov 120000
+Krivorykov 10000
+Monitorchenko 80000
+Slaboumov 18000
+Krivoshein 70000
